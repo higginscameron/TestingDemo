@@ -1,4 +1,2 @@
 [flake8]
-ignore = E501
-per-file-ignores =
-    tests/*: F401
+ignore = E501,F401
